@@ -218,6 +218,8 @@ We examine how studies evaluate graph quality, agents' use of evidence, financia
 
 ## Open challenges
 
+[![Four open challenges for financial knowledge graphs, with nine subtopics and ten cited works.](figures/open-challenges-taxonomy.svg)](figures/open-challenges-taxonomy.svg)
+
 | Subdomain | Title | Venue / year | Links |
 | --- | --- | --- | --- |
 | Evidence Sufficiency | UBO-Bench: Evaluating AI Agents for Beneficial Ownership Checks | Taktile Labs (benchmark report) · 2026 | [Report](https://taktilelabs.com/benchmarks/ubo-bench) |
