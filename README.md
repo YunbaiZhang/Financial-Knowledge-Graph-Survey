@@ -2,6 +2,14 @@
 
 Browse all 80 references from *Knowledge Graphs for Financial Analysis in the Era of LLM Agents: A Survey* by research topic.
 
+## Abstract
+
+Financial knowledge graphs (KGs) link information across sources to support risk assessment, investment research, asset recommendations, and forecasting. Large language models (LLMs) help build these graphs by extracting relationships from text and matching entities across records. Yet a workflow may still prescribe which sources to consult and which checks to run. If the chosen sources lack relevant evidence, even accurate extraction can leave a financial question unanswered.
+
+LLM agents can adapt the workflow as evidence emerges. They use the graph and earlier findings to decide where to look next, which claims to verify, and whether to update a record for later use. This is the first survey devoted to how LLM agents reshape the construction, maintenance, and use of financial KGs. Our taxonomy covers *Knowledge Graph Construction*, *Temporal Evolution*, *Verification, Reconciliation, and Admission*, *Adaptive Acquisition*, and *Knowledge Graph Usage*.
+
+We examine how studies evaluate graph quality, agents' use of evidence, financial task outcomes, and reliability over time. These evaluations show that agents can recover evidence missed in an initial search and revise records as new information arrives. Three questions remain unresolved. How can an agent tell whether it has enough evidence for a financial decision? After a record is corrected, how can the agent identify which earlier conclusions need to change? Which relationships and rules can it reuse in a new graph or domain?
+
 [Taxonomy](#taxonomy-and-selected-papers) · [Evaluation](#evaluation) · [Open challenges](#open-challenges) · [Related surveys](#related-surveys) · [Datasets and benchmarks](#datasets-and-benchmarks)
 
 ## Taxonomy and selected papers
@@ -117,6 +125,8 @@ Browse all 80 references from *Knowledge Graphs for Financial Analysis in the Er
 | Exploratory Retrieval-Augmented Planning For Continual Embodied Instruction Following | NeurIPS · 2024 | [Paper](https://papers.nips.cc/paper_files/paper/2024/hash/7bacd0ebd061d4694583ae0eb69ad15f-Abstract-Conference.html) · [arXiv](https://arxiv.org/abs/2509.08222) |
 
 ### 5. Knowledge graph usage
+
+[![Four uses of a financial knowledge graph: looking up Apple’s closing price, ranking assets for an investor, forecasting post-earnings returns, and proposing a hypothesis about falling margins.](figures/knowledge-graph-usage.png)](figures/knowledge-graph-usage.png)
 
 #### Question Answering and Reasoning
 
