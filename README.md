@@ -2,7 +2,7 @@
 
 Browse all 80 references from *Knowledge Graphs for Financial Analysis in the Era of LLM Agents: A Survey* by research topic.
 
-## Abstract
+## Overview
 
 Financial knowledge graphs (KGs) link information across sources to support risk assessment, investment research, asset recommendations, and forecasting. Large language models (LLMs) help build these graphs by extracting relationships from text and matching entities across records. Yet a workflow may still prescribe which sources to consult and which checks to run. If the chosen sources lack relevant evidence, even accurate extraction can leave a financial question unanswered.
 
