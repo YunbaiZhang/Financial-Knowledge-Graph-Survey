@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1290" height="682.4" viewBox="0 0 645 341.2" role="img" aria-labelledby="title desc">
+  <title id="title">Open challenges for financial knowledge graphs</title>
+  <desc id="desc">Four challenges branch into nine topics and ten cited studies. Categories cover evidence sufficiency, error recovery, transferability across graphs and domains, and long-term value.</desc>
+  <rect width="100%" height="100%" fill="white" />
+  <g font-family="Times New Roman, Liberation Serif, Times, serif" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M107.5,165.875 L115.5,165.875" fill="none" stroke="#aaaaaa" stroke-width="0.55" />
+    <path d="M115.5,28.25 L115.5,303.5" fill="none" stroke="#aaaaaa" stroke-width="0.55" />
+    <path d="M115.5,28.25 L124,28.25" fill="none" stroke="#aaaaaa" stroke-width="0.55" />
+    <path d="M115.5,105.5 L124,105.5" fill="none" stroke="#aaaaaa" stroke-width="0.55" />
+    <path d="M115.5,204.5 L124,204.5" fill="none" stroke="#aaaaaa" stroke-width="0.55" />
+    <path d="M115.5,303.5 L124,303.5" fill="none" stroke="#aaaaaa" stroke-width="0.55" />
+    <rect x="2.5" y="152.575" width="105" height="26.6" rx="3.6" fill="#f3f4f5" stroke="#a7afb5" stroke-width="0.55" />
+    <text x="16.5875" y="169.571" font-size="11.2" fill="#111111" xml:space="preserve">Open Challenges</text>
+    <path d="M243,28.25 L254,28.25" fill="none" stroke="#aaaaaa" stroke-width="0.55" />
+    <path d="M254,12.8 L254,43.7" fill="none" stroke="#aaaaaa" stroke-width="0.55" />
+    <path d="M254,12.8 L265,12.8" fill="none" stroke="#aaaaaa" stroke-width="0.55" />
+    <path d="M254,43.7 L265,43.7" fill="none" stroke="#aaaaaa" stroke-width="0.55" />
+    <rect x="124" y="17.95" width="119" height="20.6" rx="3.6" fill="#e2eff3" stroke="#6fa4b5" stroke-width="0.55" />
+    <text x="130" y="31.946" font-size="11.2" fill="#111111" xml:space="preserve">Evidence Sufficiency</text>
+    <path d="M405,12.8 L419,12.8" fill="none" stroke="#aaaaaa" stroke-width="0.55" />
+    <rect x="265" y="2.5" width="140" height="20.6" rx="3.6" fill="#e2eff3" stroke="#6fa4b5" stroke-width="0.55" />
+    <text x="271" y="16.496" font-size="11.2" fill="#111111" xml:space="preserve">Unresolved Ownership</text>
+    <rect x="419" y="2.5" width="223.5" height="20.6" rx="3.6" fill="#ffffff" stroke="#6fa4b5" stroke-width="0.55" />
+    <text x="425" y="16.364" font-size="10.8" fill="#111111" xml:space="preserve">UBO-Bench </text>
+    <text x="481.6895" y="16.364" font-size="9.3" fill="#111111" xml:space="preserve">[20]</text>
+    <path d="M405,43.7 L419,43.7" fill="none" stroke="#aaaaaa" stroke-width="0.55" />
+    <rect x="265" y="27.1" width="140" height="33.2" rx="3.6" fill="#e2eff3" stroke="#6fa4b5" stroke-width="0.55" />
+    <text x="271" y="41.096" font-size="11.2" fill="#111111" xml:space="preserve">Unexplored</text>
+    <text x="271" y="53.696" font-size="11.2" fill="#111111" xml:space="preserve">Transaction Paths</text>
+    <rect x="419" y="33.4" width="223.5" height="20.6" rx="3.6" fill="#ffffff" stroke="#6fa4b5" stroke-width="0.55" />
+    <text x="425" y="47.264" font-size="10.8" fill="#111111" xml:space="preserve">ABF-Bench </text>
+    <text x="479.8965" y="47.264" font-size="9.3" fill="#111111" xml:space="preserve">[73]</text>
+    <path d="M243,105.5 L254,105.5" fill="none" stroke="#aaaaaa" stroke-width="0.55" />
+    <path d="M254,86.9 L254,124.1" fill="none" stroke="#aaaaaa" stroke-width="0.55" />
+    <path d="M254,86.9 L265,86.9" fill="none" stroke="#aaaaaa" stroke-width="0.55" />
+    <path d="M254,124.1 L265,124.1" fill="none" stroke="#aaaaaa" stroke-width="0.55" />
+    <rect x="124" y="95.2" width="119" height="20.6" rx="3.6" fill="#f6e9ec" stroke="#cf9bab" stroke-width="0.55" />
+    <text x="130" y="109.196" font-size="11.2" fill="#111111" xml:space="preserve">Error Recovery</text>
+    <path d="M405,86.9 L419,86.9" fill="none" stroke="#aaaaaa" stroke-width="0.55" />
+    <rect x="265" y="70.3" width="140" height="33.2" rx="3.6" fill="#f6e9ec" stroke="#cf9bab" stroke-width="0.55" />
+    <text x="271" y="84.296" font-size="11.2" fill="#111111" xml:space="preserve">Updating Records</text>
+    <text x="271" y="96.896" font-size="11.2" fill="#111111" xml:space="preserve">and Instructions</text>
+    <rect x="419" y="76.6" width="223.5" height="20.6" rx="3.6" fill="#ffffff" stroke="#cf9bab" stroke-width="0.55" />
+    <text x="425" y="90.464" font-size="10.8" fill="#111111" xml:space="preserve">Bank-World </text>
+    <text x="481.6842" y="90.464" font-size="9.3" fill="#111111" xml:space="preserve">[55]</text>
+    <path d="M405,124.1 L419,124.1" fill="none" stroke="#aaaaaa" stroke-width="0.55" />
+    <rect x="265" y="107.5" width="140" height="33.2" rx="3.6" fill="#f6e9ec" stroke="#cf9bab" stroke-width="0.55" />
+    <text x="271" y="121.496" font-size="11.2" fill="#111111" xml:space="preserve">Tracing Decision</text>
+    <text x="271" y="134.096" font-size="11.2" fill="#111111" xml:space="preserve">Dependencies</text>
+    <rect x="419" y="113.8" width="223.5" height="20.6" rx="3.6" fill="#ffffff" stroke="#cf9bab" stroke-width="0.55" />
+    <text x="425" y="127.664" font-size="10.8" fill="#111111" xml:space="preserve">Dependency-Aware Context Graphs </text>
+    <text x="584.8432" y="127.664" font-size="9.3" fill="#111111" xml:space="preserve">[54]</text>
+    <path d="M243,204.5 L254,204.5" fill="none" stroke="#aaaaaa" stroke-width="0.55" />
+    <path d="M254,167.3 L254,241.7" fill="none" stroke="#aaaaaa" stroke-width="0.55" />
+    <path d="M254,167.3 L265,167.3" fill="none" stroke="#aaaaaa" stroke-width="0.55" />
+    <path d="M254,204.5 L265,204.5" fill="none" stroke="#aaaaaa" stroke-width="0.55" />
+    <path d="M254,241.7 L265,241.7" fill="none" stroke="#aaaaaa" stroke-width="0.55" />
+    <rect x="124" y="187.9" width="119" height="33.2" rx="3.6" fill="#f3f0e4" stroke="#bba965" stroke-width="0.55" />
+    <text x="130" y="201.896" font-size="11.2" fill="#111111" xml:space="preserve">Transferability across</text>
+    <text x="130" y="214.496" font-size="11.2" fill="#111111" xml:space="preserve">Graphs and Domains</text>
+    <path d="M405,167.3 L419,167.3" fill="none" stroke="#aaaaaa" stroke-width="0.55" />
+    <rect x="265" y="150.7" width="140" height="33.2" rx="3.6" fill="#f3f0e4" stroke="#bba965" stroke-width="0.55" />
+    <text x="271" y="164.696" font-size="11.2" fill="#111111" xml:space="preserve">Reusing Extraction</text>
+    <text x="271" y="177.296" font-size="11.2" fill="#111111" xml:space="preserve">Rules across Sectors</text>
+    <rect x="419" y="157" width="223.5" height="20.6" rx="3.6" fill="#ffffff" stroke="#bba965" stroke-width="0.55" />
+    <text x="425" y="170.864" font-size="10.8" fill="#111111" xml:space="preserve">FinEvolveKG </text>
+    <text x="488.2971" y="170.864" font-size="9.3" fill="#111111" xml:space="preserve">[4]</text>
+    <path d="M405,204.5 L419,204.5" fill="none" stroke="#aaaaaa" stroke-width="0.55" />
+    <rect x="265" y="187.9" width="140" height="33.2" rx="3.6" fill="#f3f0e4" stroke="#bba965" stroke-width="0.55" />
+    <text x="271" y="201.896" font-size="11.2" fill="#111111" xml:space="preserve">Matching Relations</text>
+    <text x="271" y="214.496" font-size="11.2" fill="#111111" xml:space="preserve">across Graphs</text>
+    <rect x="419" y="194.2" width="223.5" height="20.6" rx="3.6" fill="#ffffff" stroke="#bba965" stroke-width="0.55" />
+    <text x="425" y="208.064" font-size="10.8" fill="#111111" xml:space="preserve">FGMPL </text>
+    <text x="463.7123" y="208.064" font-size="9.3" fill="#111111" xml:space="preserve">[5]</text>
+    <text x="474.5563" y="208.064" font-size="10.8" fill="#111111" xml:space="preserve"> · Portisch et al. </text>
+    <text x="545.3416" y="208.064" font-size="9.3" fill="#111111" xml:space="preserve">[51]</text>
+    <path d="M405,241.7 L419,241.7" fill="none" stroke="#aaaaaa" stroke-width="0.55" />
+    <rect x="265" y="225.1" width="140" height="33.2" rx="3.6" fill="#f3f0e4" stroke="#bba965" stroke-width="0.55" />
+    <text x="271" y="239.096" font-size="11.2" fill="#111111" xml:space="preserve">Local Evidence</text>
+    <text x="271" y="251.696" font-size="11.2" fill="#111111" xml:space="preserve">Requirements</text>
+    <rect x="419" y="231.4" width="223.5" height="20.6" rx="3.6" fill="#ffffff" stroke="#bba965" stroke-width="0.55" />
+    <text x="425" y="245.264" font-size="10.8" fill="#111111" xml:space="preserve">Beyond LLM Wrappers </text>
+    <text x="531.4707" y="245.264" font-size="9.3" fill="#111111" xml:space="preserve">[22]</text>
+    <path d="M243,303.5 L254,303.5" fill="none" stroke="#aaaaaa" stroke-width="0.55" />
+    <path d="M254,284.9 L254,322.1" fill="none" stroke="#aaaaaa" stroke-width="0.55" />
+    <path d="M254,284.9 L265,284.9" fill="none" stroke="#aaaaaa" stroke-width="0.55" />
+    <path d="M254,322.1 L265,322.1" fill="none" stroke="#aaaaaa" stroke-width="0.55" />
+    <rect x="124" y="293.2" width="119" height="20.6" rx="3.6" fill="#ece8f5" stroke="#a295c7" stroke-width="0.55" />
+    <text x="130" y="307.196" font-size="11.2" fill="#111111" xml:space="preserve">Long-Term Value</text>
+    <path d="M405,284.9 L419,284.9" fill="none" stroke="#aaaaaa" stroke-width="0.55" />
+    <rect x="265" y="268.3" width="140" height="33.2" rx="3.6" fill="#ece8f5" stroke="#a295c7" stroke-width="0.55" />
+    <text x="271" y="282.296" font-size="11.2" fill="#111111" xml:space="preserve">Reusing Financial</text>
+    <text x="271" y="294.896" font-size="11.2" fill="#111111" xml:space="preserve">Dialogue History</text>
+    <rect x="419" y="274.6" width="223.5" height="20.6" rx="3.6" fill="#ffffff" stroke="#a295c7" stroke-width="0.55" />
+    <text x="425" y="288.464" font-size="10.8" fill="#111111" xml:space="preserve">TrackMem </text>
+    <text x="475.6777" y="288.464" font-size="9.3" fill="#111111" xml:space="preserve">[14]</text>
+    <path d="M405,322.1 L419,322.1" fill="none" stroke="#aaaaaa" stroke-width="0.55" />
+    <rect x="265" y="305.5" width="140" height="33.2" rx="3.6" fill="#ece8f5" stroke="#a295c7" stroke-width="0.55" />
+    <text x="271" y="319.496" font-size="11.2" fill="#111111" xml:space="preserve">Reusing Lessons</text>
+    <text x="271" y="332.096" font-size="11.2" fill="#111111" xml:space="preserve">from Past Events</text>
+    <rect x="419" y="311.8" width="223.5" height="20.6" rx="3.6" fill="#ffffff" stroke="#a295c7" stroke-width="0.55" />
+    <text x="425" y="325.664" font-size="10.8" fill="#111111" xml:space="preserve">TIEM </text>
+    <text x="454.0936" y="325.664" font-size="9.3" fill="#111111" xml:space="preserve">[38]</text>
+  </g>
+</svg>
