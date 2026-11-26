@@ -257,17 +257,17 @@ We examine how studies evaluate graph quality, agents' use of evidence, financia
 | Financial asset recommendation (FAR-Trans) | [Data](https://researchdata.gla.ac.uk/1658/) · [Code](https://github.com/JavierSanzCruza/far-trans) |
 | Point-in-time financial question answering (TempFinRAG) | [Paper](https://www.mdpi.com/2073-8994/18/9/1498) |
 
-# 💻 Open-source Project
+<a name="-open-source-project"></a>
 
-- [![CARAG on GitHub][github-badge]](https://github.com/luweihai/CARAG) CARAG uses earnings calls and a knowledge graph to forecast post-earnings price shocks.
-- [![FAR-Trans on GitHub][github-badge]](https://github.com/JavierSanzCruza/far-trans) FAR-Trans benchmarks financial asset recommendations against historical investor transactions.
-- [![KGGen on GitHub][github-badge]](https://github.com/stair-lab/kg-gen) KGGen builds a knowledge graph from text and groups different names for the same entity.
-- [![EDC on GitHub][github-badge]](https://github.com/clear-nus/edc) EDC extracts triples from text and maps their relation labels to a common schema.
-- [![iText2KG on GitHub][github-badge]](https://github.com/AuvaLab/itext2kg) iText2KG adds entities and relations to an existing knowledge graph as new documents arrive.
-- [![Graphiti on GitHub][github-badge]](https://github.com/getzep/graphiti) Graphiti tracks when facts change so agents can query the graph as it stood at an earlier date.
-- [![RoG on GitHub][github-badge]](https://github.com/RManLuo/reasoning-on-graphs) Reasoning on Graphs (RoG) answers questions by planning and following paths through a knowledge graph.
+# <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.githubassets.com/favicons/favicon-dark.svg"><img src="https://github.githubassets.com/favicons/favicon.svg" width="28" height="28" alt=""></picture> Open-source projects
 
-[github-badge]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+- [**CARAG**](https://github.com/luweihai/CARAG) uses earnings calls and a knowledge graph to forecast post-earnings price shocks.
+- [**FAR-Trans**](https://github.com/JavierSanzCruza/far-trans) benchmarks financial asset recommendations against historical investor transactions.
+- [**KGGen**](https://github.com/stair-lab/kg-gen) builds a knowledge graph from text and groups different names for the same entity.
+- [**EDC**](https://github.com/clear-nus/edc) extracts triples from text and maps their relation labels to a common schema.
+- [**iText2KG**](https://github.com/AuvaLab/itext2kg) adds entities and relations to an existing knowledge graph as new documents arrive.
+- [**Graphiti**](https://github.com/getzep/graphiti) tracks when facts change so agents can query the graph as it stood at an earlier date.
+- [**Reasoning on Graphs (RoG)**](https://github.com/RManLuo/reasoning-on-graphs) answers questions by planning and following paths through a knowledge graph.
 
 ## 📃 Citation
 
