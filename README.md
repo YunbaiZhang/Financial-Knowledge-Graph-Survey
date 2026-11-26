@@ -1,4 +1,4 @@
-# How LLM Agents Reshape Financial Knowledge Graphs: A Survey
+# LLM Agents for Financial Knowledge Graphs: A Survey
 
 **[Read the paper on arXiv](https://arxiv.org/abs/2611.33584)** · [PDF](https://arxiv.org/pdf/2611.33584) · [Open-source projects](#-open-source-project) · [Cite this survey](#-citation)
 
@@ -272,8 +272,8 @@ We examine how studies evaluate graph quality, agents' use of evidence, financia
 ## 📃 Citation
 
 ```
-@article{zhang2026llmagentsreshapefinancial,
-  title={How {LLM} Agents Reshape Financial Knowledge Graphs: A Survey},
+@article{zhang2026financialkg,
+  title={{LLM} Agents for Financial Knowledge Graphs: A Survey},
   author={Zhang, Yunbai and Ma, Heze and Jiang, Nan and Liu, Wenxuan and Chen, Ze and Gao, Yunyi and Gao, Winnie and Shiao, Han-Tai},
   journal={arXiv preprint arXiv:2611.33584},
   year={2026}

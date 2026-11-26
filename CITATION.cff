@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this reading guide in your research, please cite the survey."
-title: "Reading guide for How LLM Agents Reshape Financial Knowledge Graphs: A Survey"
+title: "LLM Agents for Financial Knowledge Graphs: A Survey"
 url: "https://github.com/YunbaiZhang/Financial-Knowledge-Graph-Survey"
 authors:
   - family-names: Zhang
@@ -21,7 +21,7 @@ authors:
     given-names: Han-Tai
 preferred-citation:
   type: article
-  title: "How LLM Agents Reshape Financial Knowledge Graphs: A Survey"
+  title: "LLM Agents for Financial Knowledge Graphs: A Survey"
   authors:
     - family-names: Zhang
       given-names: Yunbai
