@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this reading guide in your research, please cite the survey."
+title: "Reading guide for How LLM Agents Reshape Financial Knowledge Graphs: A Survey"
+url: "https://github.com/YunbaiZhang/Financial-Knowledge-Graph-Survey"
+authors:
+  - family-names: Zhang
+    given-names: Yunbai
+  - family-names: Ma
+    given-names: Heze
+  - family-names: Jiang
+    given-names: Nan
+  - family-names: Liu
+    given-names: Wenxuan
+  - family-names: Chen
+    given-names: Ze
+  - family-names: Gao
+    given-names: Yunyi
+  - family-names: Gao
+    given-names: Winnie
+  - family-names: Shiao
+    given-names: Han-Tai
+preferred-citation:
+  type: article
+  title: "How LLM Agents Reshape Financial Knowledge Graphs: A Survey"
+  authors:
+    - family-names: Zhang
+      given-names: Yunbai
+    - family-names: Ma
+      given-names: Heze
+    - family-names: Jiang
+      given-names: Nan
+    - family-names: Liu
+      given-names: Wenxuan
+    - family-names: Chen
+      given-names: Ze
+    - family-names: Gao
+      given-names: Yunyi
+    - family-names: Gao
+      given-names: Winnie
+    - family-names: Shiao
+      given-names: Han-Tai
+  journal: "arXiv preprint arXiv:2611.33584"
+  year: 2026
+  url: "https://arxiv.org/abs/2611.33584"

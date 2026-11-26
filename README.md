@@ -1,6 +1,8 @@
-# Financial Knowledge Graph Survey
+# How LLM Agents Reshape Financial Knowledge Graphs: A Survey
 
-Browse all 80 references from *Knowledge Graphs for Financial Analysis in the Era of LLM Agents: A Survey* by research topic.
+**[Read the paper on arXiv](https://arxiv.org/abs/2611.33584)** · [PDF](https://arxiv.org/pdf/2611.33584) · [Open-source projects](#-open-source-project) · [Cite this survey](#-citation)
+
+Browse the survey’s [80 references by research topic](#taxonomy-and-selected-papers) or go directly to the [datasets and benchmarks](#datasets-and-benchmarks).
 
 ## Overview
 
@@ -254,3 +256,26 @@ We examine how studies evaluate graph quality, agents' use of evidence, financia
 | Financial graph evaluation (FinReflectKG–EvalBench) | [Data](https://huggingface.co/datasets/domyn/FinReflectKG-EvalBench) |
 | Financial asset recommendation (FAR-Trans) | [Data](https://researchdata.gla.ac.uk/1658/) · [Code](https://github.com/JavierSanzCruza/far-trans) |
 | Point-in-time financial question answering (TempFinRAG) | [Paper](https://www.mdpi.com/2073-8994/18/9/1498) |
+
+# 💻 Open-source Project
+
+- [![CARAG on GitHub][github-badge]](https://github.com/luweihai/CARAG) CARAG uses earnings calls and a knowledge graph to forecast post-earnings price shocks.
+- [![FAR-Trans on GitHub][github-badge]](https://github.com/JavierSanzCruza/far-trans) FAR-Trans benchmarks financial asset recommendations against historical investor transactions.
+- [![KGGen on GitHub][github-badge]](https://github.com/stair-lab/kg-gen) KGGen builds a knowledge graph from text and groups different names for the same entity.
+- [![EDC on GitHub][github-badge]](https://github.com/clear-nus/edc) EDC extracts triples from text and maps their relation labels to a common schema.
+- [![iText2KG on GitHub][github-badge]](https://github.com/AuvaLab/itext2kg) iText2KG adds entities and relations to an existing knowledge graph as new documents arrive.
+- [![Graphiti on GitHub][github-badge]](https://github.com/getzep/graphiti) Graphiti tracks when facts change so agents can query the graph as it stood at an earlier date.
+- [![RoG on GitHub][github-badge]](https://github.com/RManLuo/reasoning-on-graphs) Reasoning on Graphs (RoG) answers questions by planning and following paths through a knowledge graph.
+
+[github-badge]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+
+## 📃 Citation
+
+```
+@article{zhang2026llmagentsreshapefinancial,
+  title={How {LLM} Agents Reshape Financial Knowledge Graphs: A Survey},
+  author={Zhang, Yunbai and Ma, Heze and Jiang, Nan and Liu, Wenxuan and Chen, Ze and Gao, Yunyi and Gao, Winnie and Shiao, Han-Tai},
+  journal={arXiv preprint arXiv:2611.33584},
+  year={2026}
+}
+```
