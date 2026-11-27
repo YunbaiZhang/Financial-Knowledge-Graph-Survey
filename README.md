@@ -273,7 +273,7 @@ We examine how studies evaluate graph quality, agents' use of evidence, financia
 
 ```
 @article{zhang2026financialkg,
-  title={{LLM} Agents for Financial Knowledge Graphs: A Survey},
+  title={LLM Agents for Financial Knowledge Graphs: A Survey},
   author={Zhang, Yunbai and Ma, Heze and Jiang, Nan and Liu, Wenxuan and Chen, Ze and Gao, Yunyi and Gao, Winnie and Shiao, Han-Tai},
   journal={arXiv preprint arXiv:2611.33584},
   year={2026}
